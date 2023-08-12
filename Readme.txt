@@ -2,7 +2,7 @@ This is the Readme documentation for code to run three-dimensional (3D) and two-
 1. Software
 The code runs in the MATLAB programming language. To install, download MATLAB from: http://www.mathworks.com/products/matlab/
 2. Data format
-Theoretically, any format that can be read or loaded by MATLAB is suitable to be tested by the code. We include the example data in the .zip folder “Example data”.
+Theoretically, any format that can be read or loaded by MATLAB is suitable to be tested by the code. We include the example data in the .zip file “Example data”.
 3. Run the analysis
 Here are totally 5 MATLAB files, where ‘orderindexmain.m’ is the main program, and the others are functions that will be called during the running of the main program. The explanations for the variables within the code, as well as the ideas in organizing each part of the code, have been detailed in the main program. The possible parameters that should be modified accordingly to your data sets have been highlighted as ‘modify x’ (x refers to the numbering).
 Generally, the main program can be divided into 6 parts:
