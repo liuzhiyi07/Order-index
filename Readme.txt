@@ -1,6 +1,8 @@
-The code is related to the paper: XXXXX (will be updated soon)
+The code is used to run three-dimensional (3D) and two-dimensional (2D) quantitative order index analysis on images from cytoskeletal structures.
 
-The code is used to run three-dimensional (3D) and two-dimensional (2D) order index analysis on images from cytoskeletal structures.
+Method details can be found in our paper:
+Architecture-driven quantitative nanoscopy maps cytoskeleton remodeling", PNAS, Wenjie Liu and Zhiyi Liu, 121.42 (2024): e2410688121
+(https://www.pnas.org/doi/abs/10.1073/pnas.2410688121)
 
 1. Software
 The code runs in the MATLAB programming language. To install, download MATLAB from: http://www.mathworks.com/products/matlab/
