@@ -1,7 +1,7 @@
 The code is used to run three-dimensional (3D) and two-dimensional (2D) quantitative order index analysis on images from cytoskeletal structures.
 
 Method details can be found in our paper:
-Architecture-driven quantitative nanoscopy maps cytoskeleton remodeling", PNAS, Wenjie Liu and Zhiyi Liu, 121.42 (2024): e2410688121
+Architecture-driven quantitative nanoscopy maps cytoskeleton remodeling", PNAS, Wenjie Liu and Zhiyi Liu et. al., 121.42 (2024): e2410688121
 (https://www.pnas.org/doi/abs/10.1073/pnas.2410688121)
 
 1. Software
